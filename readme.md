@@ -34,19 +34,19 @@ Create front end and synchronize it with Eth contract. <br />
 
 ## 1 - When accessing the home page, connecting the wallet
 
-<img src="../nft_/front-end/src/assets/conecct wallet.png" width="700px">
+<img src="./assets/conecct wallet.png" width="700px">
 
 ## 2 - Mint your NFT
 
-<img src="../nft_/front-end/src/assets/mintando.png" width="700px">
+<img src="./assets/mintando.png" width="700px">
 
 ## 3 - NFT mint successfully
 
-<img src="../nft_/front-end/src/assets/mintado.png" width="700px">
+<img src="./assets/mintado.png" width="700px">
 
 ## 4 - Etherscan with generated contract
 
-<img src="../nft_/front-end/src/assets/contrato.png" width="700px">
+<img src="./assets/contrato.png" width="700px">
 
 <br />
 <br />
